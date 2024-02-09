@@ -1,3 +1,3 @@
 # docker-golang-challenge
 
-dockerhub.com/heitordkr/fullcycle
+Nome da imagem no Docker Hub: heitordkr/fullcycle
